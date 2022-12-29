@@ -1,13 +1,21 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<div align="center">
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<img src="https://img.shields.io/static/v1?label=Projeto&message=React Testing Library&color=orange&style=for-the-badge&logo=github"/>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+---   
+
+<img src="https://img.shields.io/static/v1?label=Objetivo&message=Contexto&color=blue&style=for-the-badge&logo=github"/>
+<p></p>
+
+Neste projeto você irá desenvolver os testes de uma Pokédex, desenvolvida em React.
+
+---   
+
+<img src="https://img.shields.io/static/v1?label=Habilidades Aprendidas&message=Ferramentas e Tecnologias&color=red&style=for-the-badge&logo=github"/>
+<p></p>
+<a href="https://www.google.com/search?q=react+testing+libray">
+<img alt="Icon-RTL" height="40" width="40" src="https://api.iconify.design/logos/testing-library.svg"></a>
+
+</div>
+
+<div align="center">
